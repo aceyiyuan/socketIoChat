@@ -1,7 +1,6 @@
 
-Source: https://flask.palletsprojects.com/en/2.2.x/quickstart/
+Source: https://github.com/miguelgrinberg/Flask-SocketIO
 
-![alt text](https://github.com/dizzysummer/socketIoChat/blob/main/Screenshot.png?raw=true)
 
 Quick start
 
