@@ -1,3 +1,8 @@
+
+Source: https://flask.palletsprojects.com/en/2.2.x/quickstart/
+
+![alt text](https://github.com/dizzysummer/socketIoChat/blob/main/Screenshot.png?raw=true)
+
 Quick start
 
 - create virtual environment
