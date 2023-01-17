@@ -1,9 +1,6 @@
 
-Source: https://flask.palletsprojects.com/en/2.2.x/
+Source: [https://flask.palletsprojects.com/en/2.2.x/](https://flask.palletsprojects.com/en/2.2.x/quickstart/)
 
-Quickstart
-
-![alt text](https://github.com/dizzySummer/socketIoChat/blob/main/Screenshot%20.png?raw=true)
 
 Quick start
 
